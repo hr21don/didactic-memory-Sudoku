@@ -11,7 +11,9 @@ You solve_sudoku function should take a new, partially filled in puzzle as input
 
 ### Use the puzzle and its solution to test your solve_sudoku function!
 
-<img width="230" alt="Picture1" src="https://user-images.githubusercontent.com/91548582/138146480-38fc5a64-70af-4a92-8ba0-8d87ee098baf.png">
+<img width="217" alt="Picture1" src="https://user-images.githubusercontent.com/91548582/138147280-8c6139ad-022c-418c-9d49-208274e549c3.png">
+
+Return a two-dimensional list representing the solution to that puzzle with all the spaces filled in, one through nine. 
 
 ## Output 
 
